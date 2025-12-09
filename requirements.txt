@@ -1,0 +1,6 @@
+Telebot
+Telethon
+Aiohttp
+Bs4
+Flask
+Flask_cors
